@@ -1,5 +1,3 @@
-console.log("Client side javaScript file is loaded!")
-
 // look for a specific event
 // if only names, we check the "first" element we find
 const weatherform = document.querySelector('form'); 
